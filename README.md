@@ -2,7 +2,7 @@
 
 Lab analysis of Mice and relevant experiments
 
-I recieved helped during office hours from Joseph. I used my notes, lecture videos, Ask BCS as well as the internet to help me.
+I recieved helped during office hours from Joseph. I used my notes, lecture videos, Ask BCS, fellow students on Discord as well as the internet to help me.
 
 Please see the useful links below:
 
