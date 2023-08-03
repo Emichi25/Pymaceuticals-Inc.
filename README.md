@@ -1,6 +1,6 @@
 # Pymaceuticals-Inc.
 
-Lab analysis of Mice and experiments
+Lab analysis of Mice and relevant experiments
 
 I recieved helped during office hours from Joseph. I used my notes, lecture videos, Ask BCS as well as the internet to help me.
 
