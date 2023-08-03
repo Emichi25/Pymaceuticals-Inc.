@@ -20,8 +20,6 @@ https://www.geeksforgeeks.org/detect-and-remove-the-outliers-using-python/
 
 https://stats.stackexchange.com/questions/156778/percentile-vs-quantile-vs-quartile
 
-https://www.geeksforgeeks.org/detect-and-remove-the-outliers-using-python/
-
 https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html
 
 https://matplotlib.org/stable/gallery/statistics/boxplot.html
